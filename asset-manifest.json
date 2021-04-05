@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/dtaylor6306.github.io/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/dtaylor6306.github.io/static/js/main.805d04ee.chunk.js",
-    "main.js.map": "/dtaylor6306.github.io/static/js/main.805d04ee.chunk.js.map",
-    "runtime-main.js": "/dtaylor6306.github.io/static/js/runtime-main.f4384803.js",
-    "runtime-main.js.map": "/dtaylor6306.github.io/static/js/runtime-main.f4384803.js.map",
-    "static/js/2.72a3d9c3.chunk.js": "/dtaylor6306.github.io/static/js/2.72a3d9c3.chunk.js",
-    "static/js/2.72a3d9c3.chunk.js.map": "/dtaylor6306.github.io/static/js/2.72a3d9c3.chunk.js.map",
-    "static/js/3.93807a77.chunk.js": "/dtaylor6306.github.io/static/js/3.93807a77.chunk.js",
-    "static/js/3.93807a77.chunk.js.map": "/dtaylor6306.github.io/static/js/3.93807a77.chunk.js.map",
+    "main.js": "/dtaylor6306.github.io/static/js/main.caccd201.chunk.js",
+    "main.js.map": "/dtaylor6306.github.io/static/js/main.caccd201.chunk.js.map",
+    "runtime-main.js": "/dtaylor6306.github.io/static/js/runtime-main.04758e94.js",
+    "runtime-main.js.map": "/dtaylor6306.github.io/static/js/runtime-main.04758e94.js.map",
+    "static/css/2.73cc2f71.chunk.css": "/dtaylor6306.github.io/static/css/2.73cc2f71.chunk.css",
+    "static/js/2.f2b9618a.chunk.js": "/dtaylor6306.github.io/static/js/2.f2b9618a.chunk.js",
+    "static/js/2.f2b9618a.chunk.js.map": "/dtaylor6306.github.io/static/js/2.f2b9618a.chunk.js.map",
+    "static/js/3.0988b124.chunk.js": "/dtaylor6306.github.io/static/js/3.0988b124.chunk.js",
+    "static/js/3.0988b124.chunk.js.map": "/dtaylor6306.github.io/static/js/3.0988b124.chunk.js.map",
     "index.html": "/dtaylor6306.github.io/index.html",
+    "static/css/2.73cc2f71.chunk.css.map": "/dtaylor6306.github.io/static/css/2.73cc2f71.chunk.css.map",
     "static/css/main.9d5b29c0.chunk.css.map": "/dtaylor6306.github.io/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.72a3d9c3.chunk.js.LICENSE.txt": "/dtaylor6306.github.io/static/js/2.72a3d9c3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/dtaylor6306.github.io/static/media/logo.6ce24c58.svg"
+    "static/js/2.f2b9618a.chunk.js.LICENSE.txt": "/dtaylor6306.github.io/static/js/2.f2b9618a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4384803.js",
-    "static/js/2.72a3d9c3.chunk.js",
+    "static/js/runtime-main.04758e94.js",
+    "static/css/2.73cc2f71.chunk.css",
+    "static/js/2.f2b9618a.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.805d04ee.chunk.js"
+    "static/js/main.caccd201.chunk.js"
   ]
 }
