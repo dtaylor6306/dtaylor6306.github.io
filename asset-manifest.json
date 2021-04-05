@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/dtaylor6306.github.io/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/dtaylor6306.github.io/static/js/main.794a58bc.chunk.js",
-    "main.js.map": "/dtaylor6306.github.io/static/js/main.794a58bc.chunk.js.map",
-    "runtime-main.js": "/dtaylor6306.github.io/static/js/runtime-main.d09d6ac6.js",
-    "runtime-main.js.map": "/dtaylor6306.github.io/static/js/runtime-main.d09d6ac6.js.map",
-    "static/css/2.73cc2f71.chunk.css": "/dtaylor6306.github.io/static/css/2.73cc2f71.chunk.css",
-    "static/js/2.f5ac7ae0.chunk.js": "/dtaylor6306.github.io/static/js/2.f5ac7ae0.chunk.js",
-    "static/js/2.f5ac7ae0.chunk.js.map": "/dtaylor6306.github.io/static/js/2.f5ac7ae0.chunk.js.map",
-    "static/js/3.6c6c14bb.chunk.js": "/dtaylor6306.github.io/static/js/3.6c6c14bb.chunk.js",
-    "static/js/3.6c6c14bb.chunk.js.map": "/dtaylor6306.github.io/static/js/3.6c6c14bb.chunk.js.map",
-    "index.html": "/dtaylor6306.github.io/index.html",
-    "static/css/2.73cc2f71.chunk.css.map": "/dtaylor6306.github.io/static/css/2.73cc2f71.chunk.css.map",
-    "static/css/main.ea1455b2.chunk.css.map": "/dtaylor6306.github.io/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.f5ac7ae0.chunk.js.LICENSE.txt": "/dtaylor6306.github.io/static/js/2.f5ac7ae0.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.ea1455b2.chunk.css",
+    "main.js": "./static/js/main.794a58bc.chunk.js",
+    "main.js.map": "./static/js/main.794a58bc.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.567a47cc.js",
+    "runtime-main.js.map": "./static/js/runtime-main.567a47cc.js.map",
+    "static/css/2.73cc2f71.chunk.css": "./static/css/2.73cc2f71.chunk.css",
+    "static/js/2.aeda9c62.chunk.js": "./static/js/2.aeda9c62.chunk.js",
+    "static/js/2.aeda9c62.chunk.js.map": "./static/js/2.aeda9c62.chunk.js.map",
+    "static/js/3.6c6c14bb.chunk.js": "./static/js/3.6c6c14bb.chunk.js",
+    "static/js/3.6c6c14bb.chunk.js.map": "./static/js/3.6c6c14bb.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.73cc2f71.chunk.css.map": "./static/css/2.73cc2f71.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "./static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.aeda9c62.chunk.js.LICENSE.txt": "./static/js/2.aeda9c62.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d09d6ac6.js",
+    "static/js/runtime-main.567a47cc.js",
     "static/css/2.73cc2f71.chunk.css",
-    "static/js/2.f5ac7ae0.chunk.js",
+    "static/js/2.aeda9c62.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
     "static/js/main.794a58bc.chunk.js"
   ]
