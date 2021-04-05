@@ -3,7 +3,9 @@ import { Component } from 'react';
 class LandingPage extends Component {
     render(){
         return(
-            <div><h1> Landing Page</h1></div>
+            <div style= {{width:'100%',margin: 'auto'}}>
+
+            </div>
         )
     }
 }
