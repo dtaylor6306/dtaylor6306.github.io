@@ -11,25 +11,23 @@ class App extends Component{
     return (
       <div className="demo-big-content">
       <Layout>
-          <Header title="Menu" scroll>
+          <Header className ="header-color" title="Menu" scroll>
               <Navigation>
                   <Link to = "/">Home</Link>
                   <Link to="/resume">Resume</Link>
                   <Link to="/aboutme">About Me</Link>
-                  <Link to="/contact">Contact</Link>
                   <Link to="/schedule">Schedule</Link>
               </Navigation>
           </Header>
           <Drawer title="Menu">
               <Navigation>
-              <Link to = "/">Home</Link>
+              <Link to= "/">Home</Link>
               <Link to="/resume">Resume</Link>
               <Link to="/aboutme">About Me</Link>
-              <Link to="/contact">Contact</Link>
               <Link to="/schedule">Schedule</Link>
               </Navigation>
           </Drawer>
-          <Content>
+          <Content className = "body-color">
               <div className="page-content" />
               <Main/>
           </Content>
