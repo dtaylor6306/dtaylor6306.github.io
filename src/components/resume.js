@@ -12,7 +12,8 @@ class resume extends Component {
     render(){
         return(
             <div className = "resume-page">
-                <iframe title = "resume location" src= "/images/Resume 4.5.21.pdf" width = "100%" height="700px"></iframe>
+                <i>My Resume</i>
+                <iframe title = "resume" src= "/images/Resume 4.5.21.pdf" width = "100%" height="700px"></iframe>
             </div>
         );
     }

@@ -16,7 +16,7 @@ class LandingPage extends Component {
                      <div className ="banner-text">
                          <h1>Dylan Taylor </h1>
                          
-                         <hr/>
+                         <hr/> {/*This is used for the line*/}
                     <p> C++ | C | JavaScript | SQL </p>
                     <div className = "social-links">
                         {/* target = "_blank" opens in another tab*/}

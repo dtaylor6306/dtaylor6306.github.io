@@ -1,5 +1,4 @@
 import { Component } from 'react';
-import ReactDOM from 'react-dom';
 import { Cell, Grid } from 'react-mdl';
 import schedule from "../data/schedule.json";
 
