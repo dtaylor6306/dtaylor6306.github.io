@@ -16,7 +16,7 @@
     My schedule reads from a JSON file.
 
 ## Tests:
-![Tests](../public/images/testsPass.png)
+![Tests](https://raw.githubusercontent.com/dtaylor6306/dtaylor6306.github.io/master/public/images/testsPass.PNG)
 
 
 
