@@ -22,7 +22,7 @@ I created a website in the style of a professional personal website. I wanted my
     My schedule reads from a JSON file.
 
 ## Tests:
-![Tests](https://raw.githubusercontent.com/dtaylor6306/dtaylor6306.github.io/master/public/images/testsPass.PNG)
+![Tests](https://raw.githubusercontent.com/dtaylor6306/dtaylor6306.github.io/master/public/images/testsPassed.png)
 
 
 
