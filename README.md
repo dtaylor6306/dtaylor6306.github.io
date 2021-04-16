@@ -2,7 +2,10 @@
 
 ## About the Project:
 
-I created a website in the style of a professional personal website. I wanted my website to be stylelish so I used and learned many different tools. I learned a great deal, like how to open a link in another tab when clicked to how to place a downloadable pdf into a webpage.
+I created a github page using React in the style of a professional personal website. I wanted my website to be stylelish so I used and learned many different tools. I learned a great deal, like how to open a link in another tab when clicked to how to place a downloadable pdf into a webpage.
+
+![dtaylor6306.github.io](https://dtaylor6306.github.io/)
+
 ## Tools Used:
 ![uiGradients](https://uigradients.com/): Used for color schemes
 
