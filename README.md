@@ -4,14 +4,14 @@
 
 I created a github page using React in the style of a professional personal website. I wanted my page to be stylelish so I used and learned many different tools. I learned a great deal, like how to open a link in another tab when clicked to how to place a downloadable pdf into a webpage.
 
-![dtaylor6306.github.io](https://dtaylor6306.github.io/)
+[My github page](https://dtaylor6306.github.io/)
 
 ## Tools Used:
-![uiGradients](https://uigradients.com/): Used for color schemes
+[uiGradients](https://uigradients.com/): Used for color schemes
 
-![React-MDL](https://tleunen.github.io/react-mdl/): Used for my menus.
+[React-MDL](https://tleunen.github.io/react-mdl/): Used for my menus.
 
-![FontAwesome](fontawesome.com/): Used for the github logo and could be used for many more.
+[FontAwesome](fontawesome.com/): Used for the github logo and could be used for many more.
 ## Pages:
     My pages are: 
     1.Home/Landing
