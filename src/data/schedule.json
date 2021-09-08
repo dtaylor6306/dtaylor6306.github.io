@@ -1,42 +1,36 @@
 [
     {
-      "name": "Database Design CSCI 460",
-      "time": "10:00 am - 10:50 am",
-      "days": "MWF",
+      "name": "Software Engineering",
+      "time": "8:00 am - 9:15 am",
+      "days": "TTR",
       "credithour": 3
 
     },
     {
-        "name": "Adv. Programming: JavaScript CSCI 310",
-        "time": "3:00 pm - 3:50 pm",
+        "name": "Theory of Algorithms",
+        "time": "10:00 am - 10:50 am",
         "days": "MWF",
         "credithour": 3
   
     },
     {
-        "name": "Discrete Structures MATH 369",
-        "time": "12:00 pm - 12:50 pm",
+        "name": "Computer Networks",
+        "time": "9:00 am - 9:50 am",
         "days": "MWF",
         "credithour": 3
   
       },
       {
-        "name": "Essential Speech ESSL 200",
-        "time": "Online",
-        "days": "N/A",
-        "credithour": 1
+        "name": "Numerical Analysis",
+        "time": "11:00 am - 11:50 am",
+        "days": "MTWTR",
+        "credithour": 4
   
       },
       {
-        "name": "Milestone: Death and Dying ESSL 290",
-        "time": "Online",
-        "days": "N/A",
-        "credithour": 3
-      },
-      {
-        "name": "Operating Systems Design CSCI 470",
-        "time": "11:00 am - 12:15 am",
-        "days": "TTR",
+        "name": "Programming Languages",
+        "time": "2:00 pm - 2:50 pm",
+        "days": "MWF",
         "credithour": 3
       }
 
